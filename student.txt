@@ -1,4 +1,0 @@
-Name: Muhammad Marwan Agha
-Registration No: 1223345678
-Course: Software Engineering
-Lab: Git Fundamentals
